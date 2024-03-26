@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\Visual Studio\\MyFinalProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{31C6C5B0-DA80-48B8-B8D8-AEE9E68FCFD1}|Business\\Business.csproj|c:\\users\\hp\\desktop\\visual studio\\myfinalproject\\business\\abstract\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31C6C5B0-DA80-48B8-B8D8-AEE9E68FCFD1}|Business\\Business.csproj|solutionrelative:business\\abstract\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31C6C5B0-DA80-48B8-B8D8-AEE9E68FCFD1}|Business\\Business.csproj|c:\\users\\hp\\desktop\\visual studio\\myfinalproject\\business\\concrete\\productmenager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31C6C5B0-DA80-48B8-B8D8-AEE9E68FCFD1}|Business\\Business.csproj|solutionrelative:business\\concrete\\productmenager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8E97C43-CAA6-4D35-8350-BF6EA2EF6B56}|ConsoleUI\\ConsoleUI.csproj|c:\\users\\hp\\desktop\\visual studio\\myfinalproject\\consoleui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8E97C43-CAA6-4D35-8350-BF6EA2EF6B56}|ConsoleUI\\ConsoleUI.csproj|solutionrelative:consoleui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Visual Studio\\MyFinalProject\\ConsoleUI\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleUI\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Visual Studio\\MyFinalProject\\ConsoleUI\\Program.cs",
+              "RelativeToolTip": "ConsoleUI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T10:43:37.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductMenager.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Visual Studio\\MyFinalProject\\Business\\Concrete\\ProductMenager.cs",
+              "RelativeDocumentMoniker": "Business\\Concrete\\ProductMenager.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Visual Studio\\MyFinalProject\\Business\\Concrete\\ProductMenager.cs",
+              "RelativeToolTip": "Business\\Concrete\\ProductMenager.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAuwCgAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T11:48:07.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Visual Studio\\MyFinalProject\\Business\\Abstract\\IProductService.cs",
+              "RelativeDocumentMoniker": "Business\\Abstract\\IProductService.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Visual Studio\\MyFinalProject\\Business\\Abstract\\IProductService.cs",
+              "RelativeToolTip": "Business\\Abstract\\IProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T11:44:31.408Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
