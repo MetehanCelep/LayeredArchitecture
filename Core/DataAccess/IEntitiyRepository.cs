@@ -1,5 +1,4 @@
-﻿using Entities.Abstract;
-using Entities.Concrete;
+﻿using Core.Entities;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -7,7 +6,7 @@ using System.Linq.Expressions;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DataAccess.Abstract
+namespace Core.DataAccess
 {
     public interface IEntitiyRepository<T> where T : class,IEntity,new()
    //T ya IEntity ya da ondan kalıtım alan bir sınıf olmalı (generic constraint), new() demek ise newlenebilir bir sınıf olmalı demek. Yanı soyut bir sınıf olmamalı.

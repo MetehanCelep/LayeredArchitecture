@@ -13,3 +13,6 @@ C:\Users\HP\Desktop\Visual Studio\MyFinalProject\DataAccess\obj\Debug\net8.0\Dat
 C:\Users\HP\Desktop\Visual Studio\MyFinalProject\DataAccess\obj\Debug\net8.0\refint\DataAccess.dll
 C:\Users\HP\Desktop\Visual Studio\MyFinalProject\DataAccess\obj\Debug\net8.0\DataAccess.pdb
 C:\Users\HP\Desktop\Visual Studio\MyFinalProject\DataAccess\obj\Debug\net8.0\ref\DataAccess.dll
+C:\Users\HP\Desktop\Visual Studio\MyFinalProject\DataAccess\bin\Debug\net8.0\Core.dll
+C:\Users\HP\Desktop\Visual Studio\MyFinalProject\DataAccess\bin\Debug\net8.0\Core.pdb
+C:\Users\HP\Desktop\Visual Studio\MyFinalProject\DataAccess\obj\Debug\net8.0\DataAccess.sourcelink.json

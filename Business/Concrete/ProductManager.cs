@@ -11,17 +11,17 @@ using System.Threading.Tasks;
 
 namespace Business.Concrete
 {
-    public class ProductMenager : IProductService
+    public class ProductManager : IProductService
     {
         IProductDal _productDal;
         private EfCategoryDal efCategoryDal;
 
-        public ProductMenager(IProductDal productDal)
+        public ProductManager(IProductDal productDal)
         {
             _productDal = productDal;
         }
 
-        public ProductMenager(EfCategoryDal efCategoryDal)
+        public ProductManager(EfCategoryDal efCategoryDal)
         {
             this.efCategoryDal = efCategoryDal;
         }
