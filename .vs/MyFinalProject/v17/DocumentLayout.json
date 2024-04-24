@@ -3,84 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\Visual Studio\\MyFinalProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{31C6C5B0-DA80-48B8-B8D8-AEE9E68FCFD1}|Business\\Business.csproj|c:\\users\\hp\\desktop\\visual studio\\myfinalproject\\business\\constatns\\messages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31C6C5B0-DA80-48B8-B8D8-AEE9E68FCFD1}|Business\\Business.csproj|solutionrelative:business\\constatns\\messages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F4EACCCC-5589-454E-B4F8-831213284588}|WebApplication2\\WebApplication2.csproj|c:\\users\\hp\\desktop\\visual studio\\myfinalproject\\webapplication2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4EACCCC-5589-454E-B4F8-831213284588}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8E97C43-CAA6-4D35-8350-BF6EA2EF6B56}|ConsoleUI\\ConsoleUI.csproj|c:\\users\\hp\\desktop\\visual studio\\myfinalproject\\consoleui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8E97C43-CAA6-4D35-8350-BF6EA2EF6B56}|ConsoleUI\\ConsoleUI.csproj|solutionrelative:consoleui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F4EACCCC-5589-454E-B4F8-831213284588}|WebApplication2\\WebApplication2.csproj|c:\\users\\hp\\desktop\\visual studio\\myfinalproject\\webapplication2\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4EACCCC-5589-454E-B4F8-831213284588}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31C6C5B0-DA80-48B8-B8D8-AEE9E68FCFD1}|Business\\Business.csproj|c:\\users\\hp\\desktop\\visual studio\\myfinalproject\\business\\dependencyresolvers\\autofac\\autofacbusinessmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31C6C5B0-DA80-48B8-B8D8-AEE9E68FCFD1}|Business\\Business.csproj|solutionrelative:business\\dependencyresolvers\\autofac\\autofacbusinessmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{31C6C5B0-DA80-48B8-B8D8-AEE9E68FCFD1}|Business\\Business.csproj|c:\\users\\hp\\desktop\\visual studio\\myfinalproject\\business\\concrete\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{31C6C5B0-DA80-48B8-B8D8-AEE9E68FCFD1}|Business\\Business.csproj|solutionrelative:business\\concrete\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EADE2661-A08B-4586-822B-59A0E4CE5882}|Core\\Core.csproj|c:\\users\\hp\\desktop\\visual studio\\myfinalproject\\core\\utilities\\results\\idataresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EADE2661-A08B-4586-822B-59A0E4CE5882}|Core\\Core.csproj|solutionrelative:core\\utilities\\results\\idataresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{31C6C5B0-DA80-48B8-B8D8-AEE9E68FCFD1}|Business\\Business.csproj|c:\\users\\hp\\desktop\\visual studio\\myfinalproject\\business\\constatns\\messages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31C6C5B0-DA80-48B8-B8D8-AEE9E68FCFD1}|Business\\Business.csproj|solutionrelative:business\\constatns\\messages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EADE2661-A08B-4586-822B-59A0E4CE5882}|Core\\Core.csproj|c:\\users\\hp\\desktop\\visual studio\\myfinalproject\\core\\utilities\\results\\errordataresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EADE2661-A08B-4586-822B-59A0E4CE5882}|Core\\Core.csproj|solutionrelative:core\\utilities\\results\\errordataresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F4EACCCC-5589-454E-B4F8-831213284588}|WebApplication2\\WebApplication2.csproj|c:\\users\\hp\\desktop\\visual studio\\myfinalproject\\webapplication2\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4EACCCC-5589-454E-B4F8-831213284588}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EADE2661-A08B-4586-822B-59A0E4CE5882}|Core\\Core.csproj|c:\\users\\hp\\desktop\\visual studio\\myfinalproject\\core\\utilities\\results\\successdataresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EADE2661-A08B-4586-822B-59A0E4CE5882}|Core\\Core.csproj|solutionrelative:core\\utilities\\results\\successdataresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EADE2661-A08B-4586-822B-59A0E4CE5882}|Core\\Core.csproj|c:\\users\\hp\\desktop\\visual studio\\myfinalproject\\core\\utilities\\results\\errorresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EADE2661-A08B-4586-822B-59A0E4CE5882}|Core\\Core.csproj|solutionrelative:core\\utilities\\results\\errorresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EADE2661-A08B-4586-822B-59A0E4CE5882}|Core\\Core.csproj|c:\\users\\hp\\desktop\\visual studio\\myfinalproject\\core\\utilities\\results\\dataresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EADE2661-A08B-4586-822B-59A0E4CE5882}|Core\\Core.csproj|solutionrelative:core\\utilities\\results\\dataresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EADE2661-A08B-4586-822B-59A0E4CE5882}|Core\\Core.csproj|c:\\users\\hp\\desktop\\visual studio\\myfinalproject\\core\\utilities\\results\\successresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EADE2661-A08B-4586-822B-59A0E4CE5882}|Core\\Core.csproj|solutionrelative:core\\utilities\\results\\successresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EADE2661-A08B-4586-822B-59A0E4CE5882}|Core\\Core.csproj|c:\\users\\hp\\desktop\\visual studio\\myfinalproject\\core\\utilities\\results\\iresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EADE2661-A08B-4586-822B-59A0E4CE5882}|Core\\Core.csproj|solutionrelative:core\\utilities\\results\\iresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{31C6C5B0-DA80-48B8-B8D8-AEE9E68FCFD1}|Business\\Business.csproj|c:\\users\\hp\\desktop\\visual studio\\myfinalproject\\business\\abstract\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31C6C5B0-DA80-48B8-B8D8-AEE9E68FCFD1}|Business\\Business.csproj|solutionrelative:business\\abstract\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EADE2661-A08B-4586-822B-59A0E4CE5882}|Core\\Core.csproj|c:\\users\\hp\\desktop\\visual studio\\myfinalproject\\core\\dataaccess\\entityframework\\efentityrepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EADE2661-A08B-4586-822B-59A0E4CE5882}|Core\\Core.csproj|solutionrelative:core\\dataaccess\\entityframework\\efentityrepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A19061C6-DE54-454F-9323-C2BA75CAD06F}|DataAccess\\DataAccess.csproj|c:\\users\\hp\\desktop\\visual studio\\myfinalproject\\dataaccess\\concrete\\entityframework\\eforderdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A19061C6-DE54-454F-9323-C2BA75CAD06F}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\concrete\\entityframework\\eforderdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A19061C6-DE54-454F-9323-C2BA75CAD06F}|DataAccess\\DataAccess.csproj|c:\\users\\hp\\desktop\\visual studio\\myfinalproject\\dataaccess\\concrete\\entityframework\\efproductdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A19061C6-DE54-454F-9323-C2BA75CAD06F}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\concrete\\entityframework\\efproductdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A19061C6-DE54-454F-9323-C2BA75CAD06F}|DataAccess\\DataAccess.csproj|c:\\users\\hp\\desktop\\visual studio\\myfinalproject\\dataaccess\\concrete\\entityframework\\northwindcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A19061C6-DE54-454F-9323-C2BA75CAD06F}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\concrete\\entityframework\\northwindcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A19061C6-DE54-454F-9323-C2BA75CAD06F}|DataAccess\\DataAccess.csproj|c:\\users\\hp\\desktop\\visual studio\\myfinalproject\\dataaccess\\concrete\\entityframework\\efcategorydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A19061C6-DE54-454F-9323-C2BA75CAD06F}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\concrete\\entityframework\\efcategorydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A19061C6-DE54-454F-9323-C2BA75CAD06F}|DataAccess\\DataAccess.csproj|c:\\users\\hp\\desktop\\visual studio\\myfinalproject\\dataaccess\\abstract\\icustomerdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A19061C6-DE54-454F-9323-C2BA75CAD06F}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\abstract\\icustomerdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A19061C6-DE54-454F-9323-C2BA75CAD06F}|DataAccess\\DataAccess.csproj|c:\\users\\hp\\desktop\\visual studio\\myfinalproject\\dataaccess\\abstract\\iorderdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A19061C6-DE54-454F-9323-C2BA75CAD06F}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\abstract\\iorderdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A19061C6-DE54-454F-9323-C2BA75CAD06F}|DataAccess\\DataAccess.csproj|c:\\users\\hp\\desktop\\visual studio\\myfinalproject\\dataaccess\\abstract\\iproductdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A19061C6-DE54-454F-9323-C2BA75CAD06F}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\abstract\\iproductdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{70F17BA0-8D7D-4764-A84C-B0592B4ADD8B}|Entities\\Entities.csproj|c:\\users\\hp\\desktop\\visual studio\\myfinalproject\\entities\\dtos\\productdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{70F17BA0-8D7D-4764-A84C-B0592B4ADD8B}|Entities\\Entities.csproj|solutionrelative:entities\\dtos\\productdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F4EACCCC-5589-454E-B4F8-831213284588}|WebApplication2\\WebApplication2.csproj|c:\\users\\hp\\desktop\\visual studio\\myfinalproject\\webapplication2\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4EACCCC-5589-454E-B4F8-831213284588}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -90,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -102,253 +50,94 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Visual Studio\\MyFinalProject\\ConsoleUI\\Program.cs",
-              "RelativeDocumentMoniker": "ConsoleUI\\Program.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\Visual Studio\\MyFinalProject\\ConsoleUI\\Program.cs",
-              "RelativeToolTip": "ConsoleUI\\Program.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAQwCUAAAAwAAAA",
+              "DocumentIndex": 2,
+              "Title": "AutofacBusinessModule.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Visual Studio\\MyFinalProject\\Business\\DependencyResolvers\\Autofac\\AutofacBusinessModule.cs",
+              "RelativeDocumentMoniker": "Business\\DependencyResolvers\\Autofac\\AutofacBusinessModule.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Visual Studio\\MyFinalProject\\Business\\DependencyResolvers\\Autofac\\AutofacBusinessModule.cs",
+              "RelativeToolTip": "Business\\DependencyResolvers\\Autofac\\AutofacBusinessModule.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-22T07:06:26.936Z",
+              "WhenOpened": "2024-04-24T06:55:51.8Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "ErrorDataResult.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Visual Studio\\MyFinalProject\\Core\\Utilities\\Results\\ErrorDataResult.cs",
-              "RelativeDocumentMoniker": "Core\\Utilities\\Results\\ErrorDataResult.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\Visual Studio\\MyFinalProject\\Core\\Utilities\\Results\\ErrorDataResult.cs",
-              "RelativeToolTip": "Core\\Utilities\\Results\\ErrorDataResult.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-22T06:37:24.594Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "SuccessDataResult.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Visual Studio\\MyFinalProject\\Core\\Utilities\\Results\\SuccessDataResult.cs",
-              "RelativeDocumentMoniker": "Core\\Utilities\\Results\\SuccessDataResult.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\Visual Studio\\MyFinalProject\\Core\\Utilities\\Results\\SuccessDataResult.cs",
-              "RelativeToolTip": "Core\\Utilities\\Results\\SuccessDataResult.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-22T06:30:58.25Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "DataResult.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Visual Studio\\MyFinalProject\\Core\\Utilities\\Results\\DataResult.cs",
-              "RelativeDocumentMoniker": "Core\\Utilities\\Results\\DataResult.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\Visual Studio\\MyFinalProject\\Core\\Utilities\\Results\\DataResult.cs",
-              "RelativeToolTip": "Core\\Utilities\\Results\\DataResult.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T17:36:42.296Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IDataResult.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Visual Studio\\MyFinalProject\\Core\\Utilities\\Results\\IDataResult.cs",
-              "RelativeDocumentMoniker": "Core\\Utilities\\Results\\IDataResult.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\Visual Studio\\MyFinalProject\\Core\\Utilities\\Results\\IDataResult.cs",
-              "RelativeToolTip": "Core\\Utilities\\Results\\IDataResult.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T17:21:26.247Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "Messages.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Visual Studio\\MyFinalProject\\Business\\Constatns\\Messages.cs",
               "RelativeDocumentMoniker": "Business\\Constatns\\Messages.cs",
               "ToolTip": "C:\\Users\\HP\\Desktop\\Visual Studio\\MyFinalProject\\Business\\Constatns\\Messages.cs",
               "RelativeToolTip": "Business\\Constatns\\Messages.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T17:11:32.011Z",
+              "WhenOpened": "2024-04-23T11:27:17.909Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "EfEntityRepositoryBase.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Visual Studio\\MyFinalProject\\Core\\DataAccess\\EntityFramework\\EfEntityRepositoryBase.cs",
-              "RelativeDocumentMoniker": "Core\\DataAccess\\EntityFramework\\EfEntityRepositoryBase.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\Visual Studio\\MyFinalProject\\Core\\DataAccess\\EntityFramework\\EfEntityRepositoryBase.cs",
-              "RelativeToolTip": "Core\\DataAccess\\EntityFramework\\EfEntityRepositoryBase.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAANAAAA",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Visual Studio\\MyFinalProject\\WebApplication2\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Visual Studio\\MyFinalProject\\WebApplication2\\Program.cs",
+              "RelativeToolTip": "WebApplication2\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T17:04:34.603Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "NorthwindContext.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Visual Studio\\MyFinalProject\\DataAccess\\Concrete\\EntityFramework\\NorthwindContext.cs",
-              "RelativeDocumentMoniker": "DataAccess\\Concrete\\EntityFramework\\NorthwindContext.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\Visual Studio\\MyFinalProject\\DataAccess\\Concrete\\EntityFramework\\NorthwindContext.cs",
-              "RelativeToolTip": "DataAccess\\Concrete\\EntityFramework\\NorthwindContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA3AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T17:04:00.175Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "EfProductDal.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Visual Studio\\MyFinalProject\\DataAccess\\Concrete\\EntityFramework\\EfProductDal.cs",
-              "RelativeDocumentMoniker": "DataAccess\\Concrete\\EntityFramework\\EfProductDal.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\Visual Studio\\MyFinalProject\\DataAccess\\Concrete\\EntityFramework\\EfProductDal.cs",
-              "RelativeToolTip": "DataAccess\\Concrete\\EntityFramework\\EfProductDal.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAA5AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T17:03:01.057Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "EfOrderDal.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Visual Studio\\MyFinalProject\\DataAccess\\Concrete\\EntityFramework\\EfOrderDal.cs",
-              "RelativeDocumentMoniker": "DataAccess\\Concrete\\EntityFramework\\EfOrderDal.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\Visual Studio\\MyFinalProject\\DataAccess\\Concrete\\EntityFramework\\EfOrderDal.cs",
-              "RelativeToolTip": "DataAccess\\Concrete\\EntityFramework\\EfOrderDal.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA0AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T17:03:00.221Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "EfCategoryDal.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Visual Studio\\MyFinalProject\\DataAccess\\Concrete\\EntityFramework\\EfCategoryDal.cs",
-              "RelativeDocumentMoniker": "DataAccess\\Concrete\\EntityFramework\\EfCategoryDal.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\Visual Studio\\MyFinalProject\\DataAccess\\Concrete\\EntityFramework\\EfCategoryDal.cs",
-              "RelativeToolTip": "DataAccess\\Concrete\\EntityFramework\\EfCategoryDal.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T17:02:58.252Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "ICustomerDal.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Visual Studio\\MyFinalProject\\DataAccess\\Abstract\\ICustomerDal.cs",
-              "RelativeDocumentMoniker": "DataAccess\\Abstract\\ICustomerDal.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\Visual Studio\\MyFinalProject\\DataAccess\\Abstract\\ICustomerDal.cs",
-              "RelativeToolTip": "DataAccess\\Abstract\\ICustomerDal.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T17:02:40.436Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "IOrderDal.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Visual Studio\\MyFinalProject\\DataAccess\\Abstract\\IOrderDal.cs",
-              "RelativeDocumentMoniker": "DataAccess\\Abstract\\IOrderDal.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\Visual Studio\\MyFinalProject\\DataAccess\\Abstract\\IOrderDal.cs",
-              "RelativeToolTip": "DataAccess\\Abstract\\IOrderDal.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T17:02:38.908Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "IProductDal.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Visual Studio\\MyFinalProject\\DataAccess\\Abstract\\IProductDal.cs",
-              "RelativeDocumentMoniker": "DataAccess\\Abstract\\IProductDal.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\Visual Studio\\MyFinalProject\\DataAccess\\Abstract\\IProductDal.cs",
-              "RelativeToolTip": "DataAccess\\Abstract\\IProductDal.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T17:02:32.119Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "ProductDetailDto.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Visual Studio\\MyFinalProject\\Entities\\DTOs\\ProductDetailDto.cs",
-              "RelativeDocumentMoniker": "Entities\\DTOs\\ProductDetailDto.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\Visual Studio\\MyFinalProject\\Entities\\DTOs\\ProductDetailDto.cs",
-              "RelativeToolTip": "Entities\\DTOs\\ProductDetailDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T17:01:51.241Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ErrorResult.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Visual Studio\\MyFinalProject\\Core\\Utilities\\Results\\ErrorResult.cs",
-              "RelativeDocumentMoniker": "Core\\Utilities\\Results\\ErrorResult.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\Visual Studio\\MyFinalProject\\Core\\Utilities\\Results\\ErrorResult.cs",
-              "RelativeToolTip": "Core\\Utilities\\Results\\ErrorResult.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-02T14:08:59.837Z",
+              "WhenOpened": "2024-04-23T11:07:14.748Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "SuccessResult.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Visual Studio\\MyFinalProject\\Core\\Utilities\\Results\\SuccessResult.cs",
-              "RelativeDocumentMoniker": "Core\\Utilities\\Results\\SuccessResult.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\Visual Studio\\MyFinalProject\\Core\\Utilities\\Results\\SuccessResult.cs",
-              "RelativeToolTip": "Core\\Utilities\\Results\\SuccessResult.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-02T14:01:03.011Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "IResult.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Visual Studio\\MyFinalProject\\Core\\Utilities\\Results\\IResult.cs",
-              "RelativeDocumentMoniker": "Core\\Utilities\\Results\\IResult.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\Visual Studio\\MyFinalProject\\Core\\Utilities\\Results\\IResult.cs",
-              "RelativeToolTip": "Core\\Utilities\\Results\\IResult.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-02T12:04:48.205Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ProductManager.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Visual Studio\\MyFinalProject\\Business\\Concrete\\ProductManager.cs",
               "RelativeDocumentMoniker": "Business\\Concrete\\ProductManager.cs",
               "ToolTip": "C:\\Users\\HP\\Desktop\\Visual Studio\\MyFinalProject\\Business\\Concrete\\ProductManager.cs",
               "RelativeToolTip": "Business\\Concrete\\ProductManager.cs",
-              "ViewState": "AQIAADAAAAAAAAAAAAAswEAAAAAAAAAA",
+              "ViewState": "AQIAACMAAAAAAAAAAAAgwCsAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-02T11:47:49.041Z",
+              "WhenOpened": "2024-04-22T13:28:26.672Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "IProductService.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Visual Studio\\MyFinalProject\\Business\\Abstract\\IProductService.cs",
-              "RelativeDocumentMoniker": "Business\\Abstract\\IProductService.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\Visual Studio\\MyFinalProject\\Business\\Abstract\\IProductService.cs",
-              "RelativeToolTip": "Business\\Abstract\\IProductService.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAiwBAAAAA1AAAA",
+              "DocumentIndex": 1,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Visual Studio\\MyFinalProject\\WebApplication2\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Visual Studio\\MyFinalProject\\WebApplication2\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "WebApplication2\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-02T11:46:29.447Z"
+              "WhenOpened": "2024-04-22T12:42:26.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Visual Studio\\MyFinalProject\\WebApplication2\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Visual Studio\\MyFinalProject\\WebApplication2\\WeatherForecast.cs",
+              "RelativeToolTip": "WebApplication2\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T12:40:56.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Visual Studio\\MyFinalProject\\WebApplication2\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Visual Studio\\MyFinalProject\\WebApplication2\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "WebApplication2\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T12:10:43.604Z",
+              "EditorCaption": ""
             }
           ]
         }
